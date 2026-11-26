@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a053b902499eb1df-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 1.9, 318.6, 431.8],
+ "outlines": {
+  "line": {"rings": 46, "straight": {"n": 1041, "mm": 2811.4}, "curved": {"n": 86, "mm": 138.5}},
+  "text": {"rings": 175, "straight": {"n": 2010, "mm": 2593.8}, "curved": {"n": 427, "mm": 733.5}},
+  "tb": {"rings": 2, "straight": {"n": 110, "mm": 295.0}, "curved": {"n": 5, "mm": 10.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [125.4, 401.4, 201.7, 411.0], "text": "WARD-BECK"},
+   {"mm": [204.2, 401.8, 290.0, 411.6], "text": "SYSTEMS LTD"},
+   {"mm": [57.2, 392.5, 288.0, 406.4], "text": "WBS 841 PAOCAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4"},
+   {"mm": [125.4, 389.9, 177.9, 395.2], "text": "TELEX: 065-25399"},
+   {"mm": [213.1, 389.5, 288.4, 396.7], "text": "TELEPHONE: 416/438-65S0"},
+   {"mm": [148.8, 238.8, 202.7, 250.8], "text": "M497A"},
+   {"mm": [131.7, 226.7, 151.6, 234.4], "text": "DUAL"},
+   {"mm": [155.4, 226.7, 220.2, 234.9], "text": "MASTER MODULE"},
+   {"mm": [85.1, 4.5, 227.1, 9.8], "text": "DESIGN AND MANUFACTURE OF PROFESSIONAL AUDIO"},
+   {"mm": [228.6, 5.2, 258.9, 10.0], "text": "EOUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [50.5, 383.8, 269.4, 420.2],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK", "SYSTEMS LTD", "WBS 841 PAOCAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4", "TELEX: 065-25399", "TELEPHONE: 416/438-65S0"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–319 mm across, 2–432 mm up",
+  "- **Outlines:** line 46 rings, 1,041 straight (2,811 mm) / 86 curved (138 mm); text 175 rings, 2,010 straight (2,594 mm) / 427 curved (734 mm); tb 2 rings, 110 straight (295 mm) / 5 curved (10.1 mm)",
+  "- **Words (OCR):** 14 in 10 lines: WARD-BECK · SYSTEMS LTD · WBS 841 PAOCAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-65S0 · M497A · DUAL · MASTER MODULE · DESIGN AND MANUFACTURE OF PROFESSIONAL AUDIO · EOUIPMENT",
+  "- **Title block:** (50, 384)–(269, 420) mm: WARD-BECK · SYSTEMS LTD · WBS 841 PAOCAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-65S0"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/a053b902499eb1df-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 11.2, 328.4, 422.3],
+ "outlines": {
+  "line": {"rings": 59, "straight": {"n": 1161, "mm": 3797.6}, "curved": {"n": 104, "mm": 155.0}},
+  "text": {"rings": 275, "straight": {"n": 2086, "mm": 2534.9}, "curved": {"n": 634, "mm": 1064.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 36,
+  "lines": [
+   {"mm": [33.2, 402.4, 147.5, 410.6], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [155.0, 360.6, 193.7, 367.0], "text": "PARTS LiST"},
+   {"mm": [126.3, 347.2, 165.8, 354.1], "text": "M497A DUAL"},
+   {"mm": [169.5, 347.2, 194.3, 354.1], "text": "MASTER"},
+   {"mm": [197.1, 346.5, 222.4, 354.2], "text": "MODULE"},
+   {"mm": [114.0, 333.6, 168.4, 340.7], "text": "CONTROL KNOBS,"},
+   {"mm": [172.3, 334.2, 204.5, 340.7], "text": "CAPS AND"},
+   {"mm": [207.3, 333.8, 236.4, 340.7], "text": "BUTTONS"},
+   {"mm": [50.3, 307.0, 66.9, 314.0], "text": "USED"},
+   {"mm": [69.7, 307.7, 78.8, 314.1], "text": "ON"},
+   {"mm": [98.2, 307.7, 141.4, 314.1], "text": "DESCRIPTION"},
+   {"mm": [186.3, 307.7, 200.4, 314.1], "text": "MFG"},
+   {"mm": [234.3, 307.7, 296.2, 314.1], "text": "MFG PART NUMBER"},
+   {"mm": [50.5, 294.9, 62.0, 300.4], "text": "RL2"},
+   {"mm": [98.2, 294.1, 143.1, 301.2], "text": "Knob (Black)"},
+   {"mm": [186.3, 294.1, 202.5, 301.0], "text": "Elma"},
+   {"mm": [233.8, 294.7, 258.6, 301.2], "text": "021-352"},
+   {"mm": [97.8, 287.1, 111.6, 294.3], "text": "Cap"},
+   {"mm": [114.4, 287.6, 139.7, 294.5], "text": "(Black)"},
+   {"mm": [233.8, 287.6, 262.5, 294.5], "text": "040-3620"},
+   {"mm": [50.3, 274.6, 61.7, 281.1], "text": "R4L"},
+   {"mm": [98.2, 274.6, 114.4, 281.1], "text": "Knob"},
+   {"mm": [117.7, 274.6, 143.1, 281.6], "text": "(Black)"},
+   {"mm": [233.8, 274.2, 258.6, 281.1], "text": "021-352"},
+   {"mm": [98.2, 267.7, 111.2, 274.7], "text": "Cap"},
+   {"mm": [114.4, 268.4, 139.7, 274.8], "text": "(Black)"},
+   {"mm": [233.8, 267.7, 262.5, 274.7], "text": "040-3620"},
+   {"mm": [168.4, 10.4, 179.8, 16.8], "text": "3-5"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 11–422 mm up",
+  "- **Outlines:** line 59 rings, 1,161 straight (3,798 mm) / 104 curved (155 mm); text 275 rings, 2,086 straight (2,535 mm) / 634 curved (1,064 mm)",
+  "- **Words (OCR):** 36 in 28 lines: WAAD-BECK SYSTEMS LTD_ · PARTS LiST · M497A DUAL · MASTER · MODULE · CONTROL KNOBS, · CAPS AND · BUTTONS · USED · ON · DESCRIPTION · MFG"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/e8654ed5c1038366-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.6, 1.9, 318.6, 431.8],
+ "outlines": {
+  "line": {"rings": 123, "straight": {"n": 2027, "mm": 4086.3}, "curved": {"n": 275, "mm": 445.1}},
+  "text": {"rings": 56, "straight": {"n": 577, "mm": 881.4}, "curved": {"n": 121, "mm": 235.3}},
+  "tb": {"rings": 45, "straight": {"n": 564, "mm": 737.2}, "curved": {"n": 123, "mm": 202.3}}
+ },
+ "circles": [{"c": [285.6, 393.4], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [126.9, 401.8, 291.2, 409.2], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [52.0, 390.1, 288.2, 408.0], "text": "(\\NElS] B41 PROGRESS AVENUE. TELEPHONE 418 /438-6550"},
+   {"mm": [194.5, 395.5, 288.7, 399.8], "text": "SCARBOFlCJUGH. ONTARIO M1H 2X4"},
+   {"mm": [126.9, 390.1, 178.5, 394.0], "text": "TELEX: 06i5 -25399"},
+   {"mm": [149.0, 238.6, 203.2, 248.6], "text": "M497A"},
+   {"mm": [132.1, 226.9, 219.1, 233.1], "text": "DUAL MASTER MODULE"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [120.3, 393.2, 269.1, 417.9],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD.", "(\\NElS] B41 PROGRESS AVENUE. TELEPHONE 418 /438-6550", "SCARBOFlCJUGH. ONTARIO M1H 2X4"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–319 mm across, 2–432 mm up",
+  "- **Outlines:** line 123 rings, 2,027 straight (4,086 mm) / 275 curved (445 mm); text 56 rings, 577 straight (881 mm) / 121 curved (235 mm); tb 45 rings, 564 straight (737 mm) / 123 curved (202 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.0 @ (285.6, 393.4)",
+  "- **Words (OCR):** 25 in 10 lines: WARD-BECK SYSTEMS LTD. · (\\NElS] B41 PROGRESS AVENUE. TELEPHONE 418 /438-6550 · SCARBOFlCJUGH. ONTARIO M1H 2X4 · TELEX: 06i5 -25399 · M497A · DUAL MASTER MODULE · ps · BS · tp · ht",
+  "- **Title block:** (120, 393)–(269, 418) mm: WARD-BECK SYSTEMS LTD. · (\\NElS] B41 PROGRESS AVENUE. TELEPHONE 418 /438-6550 · SCARBOFlCJUGH. ONTARIO M1H 2X4"
+ ]
+}

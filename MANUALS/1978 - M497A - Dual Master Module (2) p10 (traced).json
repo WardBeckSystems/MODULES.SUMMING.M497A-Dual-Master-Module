@@ -1,0 +1,67 @@
+{
+ "drawing": "Modules/SUMMING/M497A/MANUALS/1978 - M497A - Dual Master Module (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/e8654ed5c1038366-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 11.2, 328.4, 422.3],
+ "outlines": {
+  "line": {"rings": 121, "straight": {"n": 1677, "mm": 4437.0}, "curved": {"n": 250, "mm": 403.1}},
+  "text": {"rings": 208, "straight": {"n": 1550, "mm": 1831.2}, "curved": {"n": 478, "mm": 795.4}},
+  "tb": {"rings": 5, "straight": {"n": 43, "mm": 67.0}, "curved": {"n": 13, "mm": 23.8}}
+ },
+ "circles": [{"c": [72.0, 310.9], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [35.6, 403.9, 147.7, 409.5], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [157.4, 360.3, 195.2, 366.3], "text": "PARTS LIST"},
+   {"mm": [128.7, 347.0, 223.9, 352.9], "text": "M497A DUAL MASTER MODULE"},
+   {"mm": [115.7, 333.8, 236.4, 339.8], "text": "CON TROL KNOBS CAPS AND BUTTONS"},
+   {"mm": [52.0, 308.3, 78.6, 314.3], "text": "USE ON"},
+   {"mm": [100.2, 308.1, 141.2, 314.1], "text": "DESCR IPT ION"},
+   {"mm": [188.3, 307.2, 199.9, 313.2], "text": "MFG"},
+   {"mm": [236.0, 306.1, 296.2, 312.6], "text": "MFG PAR NUMBER"},
+   {"mm": [51.8, 295.1, 63.0, 301.1], "text": "R42"},
+   {"mm": [100.2, 294.7, 142.7, 300.9], "text": "Knob (Black)"},
+   {"mm": [188.0, 294.1, 202.1, 300.1], "text": "Elma"},
+   {"mm": [235.8, 293.4, 258.0, 299.4], "text": "021-352"},
+   {"mm": [99.7, 288.2, 139.0, 294.2], "text": "Cap (Black)"},
+   {"mm": [235.5, 286.9, 261.2, 292.9], "text": "040-3620"},
+   {"mm": [51.6, 275.5, 62.8, 281.5], "text": "R44"},
+   {"mm": [99.7, 275.1, 142.3, 281.3], "text": "Knob (Black)"},
+   {"mm": [235.3, 273.5, 258.0, 279.5], "text": "021-3:;2"},
+   {"mm": [99.5, 268.4, 139.0, 274.4], "text": "Cap (Bla ck)"},
+   {"mm": [235.3, 266.9, 262.3, 272.8], "text": "040- 3620"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"},
+   {"mm": [167.3, 9.5, 176.2, 15.5], "text": "3-5"}
+  ]
+ },
+ "title_block": {"mm": [28.9, 395.3, 136.3, 418.1], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 11–422 mm up",
+  "- **Outlines:** line 121 rings, 1,677 straight (4,437 mm) / 250 curved (403 mm); text 208 rings, 1,550 straight (1,831 mm) / 478 curved (795 mm); tb 5 rings, 43 straight (67.0 mm) / 13 curved (23.8 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (72.0, 310.9)",
+  "- **Words (OCR):** 46 in 24 lines: WARD-BECK SYSTEMS LTD · PARTS LIST · M497A DUAL MASTER MODULE · CON TROL KNOBS CAPS AND BUTTONS · USE ON · DESCR IPT ION · MFG · MFG PAR NUMBER · R42 · Knob (Black) · Elma · 021-352",
+  "- **Title block:** (29, 395)–(136, 418) mm: WARD-BECK SYSTEMS LTD"
+ ]
+}

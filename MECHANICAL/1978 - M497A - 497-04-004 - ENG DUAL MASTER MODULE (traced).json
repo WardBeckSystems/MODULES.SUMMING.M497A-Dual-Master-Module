@@ -1,0 +1,103 @@
+{
+ "drawing": "Modules/SUMMING/M497A/MECHANICAL/1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE.jpg",
+ "version": 1,
+ "trace": "_traces/3b04612b57a69825.svg",
+ "sheet": {
+  "number": "497-04-004",
+  "title": "Space For Channe Identification Des",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.9, 0.0, 333.4, 431.8],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 633, "mm": 1788.8}, "curved": {"n": 43, "mm": 58.8}},
+  "text": {"rings": 253, "straight": {"n": 1878, "mm": 1802.4}, "curved": {"n": 634, "mm": 846.2}},
+  "tb": {"rings": 120, "straight": {"n": 2023, "mm": 5033.3}, "curved": {"n": 255, "mm": 405.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {
+   "mm": [30.9, 227.2, 123.3, 233.4],
+   "w": 92.4,
+   "h": 6.2,
+   "from": "ring",
+   "words": ["Space for", "identification", "channe |", "designation."]
+  }
+ ],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [152.4, 300.3, 161.5, 305.1], "text": "WBS"},
+   {"mm": [178.8, 300.3, 189.6, 304.6], "text": "M497A"},
+   {"mm": [220.9, 256.7, 306.8, 260.5], "text": "RIGHT CHANNEL leve control R44 : Determines"},
+   {"mm": [246.8, 252.8, 306.6, 257.3], "text": "of a] RIght Channe outputs."},
+   {"mm": [220.9, 252.8, 245.0, 256.8], "text": "output leve |"},
+   {"mm": [32.2, 228.0, 66.5, 232.3], "text": "Space for channe |"},
+   {"mm": [68.2, 228.0, 122.4, 232.3], "text": "identification designation."},
+   {"mm": [229.9, 176.0, 306.8, 184.1], "text": "EHAevef ofexi} control R42: Determines"},
+   {"mm": [220.4, 179.4, 229.7, 183.3], "text": "LEFT"},
+   {"mm": [220.9, 175.7, 233.8, 179.6], "text": "output"},
+   {"mm": [262.5, 176.2, 306.1, 180.0], "text": "LEFT Channe ou tputs."},
+   {"mm": [254.3, 42.3, 273.8, 46.2], "text": "ISSUE |DATE"},
+   {"mm": [291.7, 42.3, 306.8, 46.2], "text": "REVISION"},
+   {"mm": [325.1, 43.0, 331.6, 46.1], "text": "APP:"},
+   {"mm": [235.3, 31.3, 260.8, 37.8], "text": "WBS"},
+   {"mm": [266.9, 32.2, 329.2, 37.9], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [285.6, 20.7, 301.8, 26.0], "text": "M497A"},
+   {"mm": [230.1, 18.1, 236.6, 22.0], "text": "ENG_"},
+   {"mm": [269.9, 14.7, 318.5, 21.2], "text": "DUAL MASTER MODULE"},
+   {"mm": [230.1, 12.7, 237.7, 16.6], "text": "CKD"},
+   {"mm": [230.1, 7.8, 237.3, 11.6], "text": "APP"},
+   {"mm": [279.8, 9.5, 308.3, 14.8], "text": "FRONT PANEL"},
+   {"mm": [236.0, 3.0, 246.8, 6.9], "text": "SCALE"},
+   {"mm": [318.7, 3.5, 328.4, 7.3], "text": "ISSUE"},
+   {"mm": [275.9, 0.2, 302.9, 4.1], "text": "497-04-004"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [145.7, 0.0, 336.2, 313.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M497A",
+   "RIGHT CHANNEL leve control R44 : Determines",
+   "of a] RIght Channe outputs.",
+   "output leve |",
+   "EHAevef ofexi} control R42: Determines",
+   "LEFT",
+   "output",
+   "LEFT Channe ou tputs.",
+   "ISSUE |DATE",
+   "REVISION",
+   "APP:",
+   "WBS",
+   "WARD-BECK SYSTEMS",
+   "M497A",
+   "ENG_",
+   "DUAL MASTER MODULE",
+   "CKD",
+   "APP",
+   "FRONT PANEL",
+   "SCALE",
+   "ISSUE",
+   "497-04-004"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 497-04-004, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–333 mm across, 0–432 mm up",
+  "- **Outlines:** line 35 rings, 633 straight (1,789 mm) / 43 curved (58.8 mm); text 253 rings, 1,878 straight (1,802 mm) / 634 curved (846 mm); tb 120 rings, 2,023 straight (5,033 mm) / 255 curved (406 mm)",
+  "- **Closed boxes:** 1; named: Space for identification channe | design",
+  "- **Words (OCR):** 41 in 25 lines: WBS · M497A · RIGHT CHANNEL leve control R44 : Determines · of a] RIght Channe outputs. · output leve | · Space for channe | · identification designation. · EHAevef ofexi} control R42: Determines · LEFT · output · LEFT Channe ou tputs. · ISSUE |DATE",
+  "- **Title block:** (146, 0)–(336, 314) mm: WBS · M497A · RIGHT CHANNEL leve control R44 : Determines · of a] RIght Channe outputs. · output leve | · EHAevef ofexi} control R42: Determines · LEFT · output · LEFT Channe ou tputs. · ISSUE |DATE ·"
+ ]
+}
