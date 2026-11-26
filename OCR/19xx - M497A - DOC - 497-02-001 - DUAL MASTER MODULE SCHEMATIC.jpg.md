@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (359, 23)–(432, 40) mm: WBS · WARD-BECK SYBTEMS
 - **Wiring (first pass):** 138 connected wire groups from 964 runs; labelled ends: 119 mm → WBS, 7/18; 113 mm → 2415, 22/15, 1215; 109 mm → EX, 75k; 105 mm → Rto; 98 mm → 75k
 
-Every curve, box, word and wire group: [19xx - M497A - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M497A%20-%20DOC%20-%20497-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M497A - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M497A - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M497A%20-%20DOC%20-%20497-02-001%20-%20DUAL%20MASTER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M497A - DOC - 497-02-001 - DUAL MASTER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

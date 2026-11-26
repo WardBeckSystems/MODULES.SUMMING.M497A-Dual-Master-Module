@@ -20,7 +20,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Words (OCR):** 41 in 25 lines: WBS · M497A · RIGHT CHANNEL leve control R44 : Determines · of a] RIght Channe outputs. · output leve | · Space for channe | · identification designation. · EHAevef ofexi} control R42: Determines · LEFT · output · LEFT Channe ou tputs. · ISSUE |DATE
 - **Title block:** (146, 0)–(336, 314) mm: WBS · M497A · RIGHT CHANNEL leve control R44 : Determines · of a] RIght Channe outputs. · output leve | · EHAevef ofexi} control R42: Determines · LEFT · output · LEFT Channe ou tputs. · ISSUE |DATE ·
 
-Every curve, box, word and wire group: [1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (traced).json](../MECHANICAL/1978%20-%20M497A%20-%20497-04-004%20-%20ENG%20DUAL%20MASTER%20MODULE%20(traced).json) (the CAD file: `1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (traced).json](../MECHANICAL/1978%20-%20M497A%20-%20497-04-004%20-%20ENG%20DUAL%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M497A - 497-04-004 - ENG DUAL MASTER MODULE (traced).dxf`).
 
 ## Full text
 

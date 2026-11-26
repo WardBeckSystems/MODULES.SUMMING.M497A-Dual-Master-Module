@@ -26,7 +26,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Title block:** (117, 8)–(335, 129) mm: 1/81 · DESIGNATiOU REVISiON · GEB · 7/78| 8-109E WAS · 4.109E · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · MRW · DRN. · M497A · ENG RKB · DUAL · MASTER MODULE · CKD_ Lu · FUNCTIONAL DIAGRAM
 - **Wiring (first pass):** 31 connected wire groups from 71 runs; labelled ends: 32 mm → OUTPUts, OUTPUt; 16 mm → OUTPUTS, LEFT; 16 mm → PROGRAM, +8dBm; 15 mm → PROGRAM, +8 dBm; 13 mm → LEFT, OUTPUT
 
-Every curve, box, word and wire group: [1978 - M497A - 497-01-002 - DESIGNATION REVISION GEB (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-01-002%20-%20DESIGNATION%20REVISION%20GEB%20(traced).json) (the CAD file: `1978 - M497A - 497-01-002 - DESIGNATION REVISION GEB (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - 497-01-002 - DESIGNATION REVISION GEB (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-01-002%20-%20DESIGNATION%20REVISION%20GEB%20%28traced%29.json) (the CAD file: `1978 - M497A - 497-01-002 - DESIGNATION REVISION GEB (traced).dxf`).
 
 ## Full text
 

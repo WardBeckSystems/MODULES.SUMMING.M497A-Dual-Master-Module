@@ -23,7 +23,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Title block:** (224, 0)–(336, 60) mm: IssU |DATE · RevIsION · WBS · WARD-BECK ByBTEMB · DRN: · MRw · Ma97im4?7A · ENG.MrW Ioity · DUAL MASTER MODULE · CKD. Ra: · SCHEMATIC · ApP · SCALE · ISSUE · 497-02-001
 - **Wiring (first pass):** 75 connected wire groups from 243 runs; labelled ends: 178 mm → RA5, 300, IE6, R47; 150 mm → R54  75k, R5s, R5R 7, Rs6; 143 mm → R5s, VVC, 300, 2E61; 142 mm → 300, r48, Rso, 620; 98 mm → 7/8], 8-I09E
 
-Every curve, box, word and wire group: [1978 - M497A - 497-02-001 - VERSION RARR ARE FRONT PANEL LEVEL CONTROLS (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-02-001%20-%20VERSION%20RARR%20ARE%20FRONT%20PANEL%20LEVEL%20CONTROLS%20(traced).json) (the CAD file: `1978 - M497A - 497-02-001 - VERSION RARR ARE FRONT PANEL LEVEL CONTROLS (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - 497-02-001 - VERSION RARR ARE FRONT PANEL LEVEL CONTROLS (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-02-001%20-%20VERSION%20RARR%20ARE%20FRONT%20PANEL%20LEVEL%20CONTROLS%20%28traced%29.json) (the CAD file: `1978 - M497A - 497-02-001 - VERSION RARR ARE FRONT PANEL LEVEL CONTROLS (traced).dxf`).
 
 ## Full text
 

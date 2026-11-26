@@ -18,7 +18,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Outlines:** line 262 rings, 6,188 straight (11,340 mm) / 711 curved (1,108 mm); text 608 rings, 6,143 straight (7,801 mm) / 1,259 curved (2,068 mm)
 - **Closed boxes:** 57
 
-Every curve, box, word and wire group: [1978 - M497A - 497-04-002 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1978%20-%20M497A%20-%20497-04-002%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1978 - M497A - 497-04-002 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - 497-04-002 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1978%20-%20M497A%20-%20497-04-002%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1978 - M497A - 497-04-002 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

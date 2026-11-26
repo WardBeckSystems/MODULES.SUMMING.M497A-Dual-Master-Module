@@ -26,7 +26,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Words (OCR):** 14 in 10 lines: WARD-BECK · SYSTEMS LTD · WBS 841 PAOCAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-65S0 · M497A · DUAL · MASTER MODULE · DESIGN AND MANUFACTURE OF PROFESSIONAL AUDIO · EOUIPMENT
 - **Title block:** (50, 384)–(269, 420) mm: WARD-BECK · SYSTEMS LTD · WBS 841 PAOCAESS AVENUE; SCAABOROUGH; ONTAAIO M1H 2x4 · TELEX: 065-25399 · TELEPHONE: 416/438-65S0
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p1 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p1%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p1 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p1%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p1 (tr
 - **Words (OCR):** 145 in 93 lines: WAAD-BECK · Systems LTD_ · TECHNICAL DATA · M49ZA DUAL · MASTER MODULE · Ga in: · dB · +0.5 dB nomina) , · 18 dB · dB +u0 · maximum_ · mdb 4S+
 - **Title block:** (26, 396)–(134, 420) mm: WAAD-BECK · Systems LTD_
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p2 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p2%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p2 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p2%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p2 (tr
 - **Outlines:** line 215 rings, 2,179 straight (4,161 mm) / 381 curved (471 mm); text 686 rings, 5,469 straight (5,981 mm) / 1,322 curved (2,030 mm)
 - **Words (OCR):** 138 in 86 lines: WAAD-BECK SYSTEMS LTD · OTJ 3m3t3ye · 4o38-OAAW · IECHNICAL_DATA · M49ZADUAL MASTER MODULE · Output · Leve] · [Gateon ab · 6 0 + 86 · :Or62 · 24 dBm maximum · Program:
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p3 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p3%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p3 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p3%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p3 (tr
 - **Words (OCR):** 279 in 157 lines: WARD-BECK SYSTEMS LTD_ · OTJ Zmatayz · Mjbe-OAAW · CIRCUIT DESCRIPTION · M49ZA DUAL · MASTER_MODULE · The M497 · accommodates two · separate · igna] channels It is 9_ · des · gned to
 - **Title block:** (28, 309)–(156, 421) mm: WARD-BECK SYSTEMS LTD_ · M49ZA DUAL · The M497 · accommodates two · des · gned to · receive the mixed feeds
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p4 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p4%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p4 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p4%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p4 (tr
 - **Outlines:** line 103 rings, 1,642 straight (3,865 mm) / 215 curved (292 mm); text 1,105 rings, 9,269 straight (10,132 mm) / 2,409 curved (3,875 mm)
 - **Words (OCR):** 253 in 126 lines: WARD-BECK SYSTEMS LTD_ · OtJ amataya 4j3a DAAW · CIRCUII_DESCRIPTION · M497A DUAL · MASTER_MODULE · separate MONITOR output is · Provided , · designed feed the gdT · M495' STEREO MONITOR module a 5 we1 as · to · to · drive standard 0 'e9b
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p5 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p5%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p5 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p5%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p5 (tr
 - **Words (OCR):** 108 in 89 lines: WAAD-BECK SYSTEMS LTD_ · OTJ · PARTS · LISI · M497A DUAL · MASTER · MODULE · Mo MFG PART NUMBER · PART DESCRIPTION · MFG · Capacitor 330 uF/ 6 · Kemet
 - **Title block:** (26, 396)–(135, 421) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p6 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p6%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p6 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p6%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -87,7 +87,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p6 (tr
 - **Words (OCR):** 119 in 105 lines: WARD-BECK SYSTEMS LTD_ · OtJ · PARIS · LISI · M49ZA DUAL · MASTER MODULE · PART DESCRIPIION · MFG · MFG PART NUMBER · Motorola · 1n4003 _ · CR2
 - **Title block:** (29, 399)–(138, 424) mm: WARD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p7 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p7%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p7 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p7%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -98,7 +98,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p7 (tr
 - **Words (OCR):** 112 in 101 lines: OTJ · WAAD-BECK · SysteMS LTD_ · PARIS LISI · Areem · M49ZA DUAL · MASTER · MODULE · 99m · MO MFG PART NUMBER · PART DESCRIPTION · MFG
 - **Title block:** (27, 150)–(262, 420) mm: OTJ · WAAD-BECK · SysteMS LTD_ · PARIS LISI · Areem · M49ZA DUAL · MASTER · MODULE · 99m · PART DESCRIPTION · MFG · R25 Resistor · 15k · Philips · R26 · 15k · R27 · 620 · R28 · 620 · R29 · 15k · R30 ·
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p8 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p8%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p8 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p8%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p8 (tr
 - **Words (OCR):** 112 in 92 lines: WAAD-BECK · Systems LTD_ · OTJ · PARTS LIST · M497A DUAL · MASTER MODULE · PART DESCRIPTION · MFG · MFG PART NUMBER · R60 · Resistor · 620
 - **Title block:** (29, 39)–(137, 423) mm: WAAD-BECK · Systems LTD_ · PART DESCRIPTION · R60 · Resistor · 620 · R6 1 · 1K5 · 1K5 · R62 · R6 3 · 15k · R64 · 15k · R65 · R66 · 2k2 · R67 · 2k2 · R68 · R69 · R7O · R71 · 3.3 · R72 · 390 · R73 · 390
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p9 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p9%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p9 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p9%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p9 (tr
 - **Outlines:** line 59 rings, 1,161 straight (3,798 mm) / 104 curved (155 mm); text 275 rings, 2,086 straight (2,535 mm) / 634 curved (1,064 mm)
 - **Words (OCR):** 36 in 28 lines: WAAD-BECK SYSTEMS LTD_ · PARTS LiST · M497A DUAL · MASTER · MODULE · CONTROL KNOBS, · CAPS AND · BUTTONS · USED · ON · DESCRIPTION · MFG
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p10 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p10%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p10 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p10%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -129,7 +129,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p10 (t
 - **Words (OCR):** 267 in 178 lines: WARD-BECK SYSTEMS LTD, · Mo · DESCRIPTION · 23 · 8-109 · AMPLIFIER · SERIES · The · 8-109 · series of · amplifiers are · utilized as
 - **Title block:** (30, 309)–(160, 425) mm: WARD-BECK SYSTEMS LTD, · Mo · 23 · 8-109 · The · 8-109 · series of · amplifiers are · within · various · WBS series · mounts as · amplifier
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p11 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p11%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p11 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p11%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p11 (t
 - **Outlines:** line 69 rings, 1,225 straight (3,377 mm) / 135 curved (221 mm); text 1,935 rings, 13,911 straight (14,785 mm) / 4,102 curved (6,471 mm)
 - **Words (OCR):** 321 in 163 lines: WARD-BECK SYSTEMS LTD_ · 4o · DESCRIPT ION · 8-109 · AMPL IFIER SERIES · Ins · Output Level Ce 28 · dBm maximum. 7c · eot-3 · eon- · 36 · lubon
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p12 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p12%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p12 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p12%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p12 (t
 - **Words (OCR):** 139 in 115 lines: WARD-BECK · SYSTEMS LT_ · GTJ · T2i PARTS LiST · 21138-109 AMPLIFIER SERIES · e01-8 · 8-109 · 37M · TAA9 · PARI · DESCRIPTION · MFG
 - **Title block:** (30, 400)–(159, 427) mm: WARD-BECK · SYSTEMS LT_
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p13 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p13%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p13 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p13%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p13 (t
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (165.7, 204.2)
 - **Words (OCR):** 127 in 117 lines: WARD-BECK SYSTEMS · LTD_ · 0TJ · PARTS LiST · T2i · SERIES · 8-109 AMPLIFIER · 8-109 · 201-e · PART · DESCRIPTION · MFG
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p14 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p14%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p14 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p14%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -168,7 +168,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p14 (t
 - **Words (OCR):** 146 in 105 lines: WAAD-BECK SYSTEMS LTD_ · OTJ aMateya 4o38-JAAW · PARTS LIST · 8-109 · AMPLIFIER SERIES · 8-109A · e0i-8 794 · 26 · VIA · AII parts as · per · 8-109 except as
 - **Title block:** (29, 400)–(138, 426) mm: WAAD-BECK SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p15 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p15%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p15 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p15%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p15 (t
 - **Words (OCR):** 144 in 100 lines: WAAD-BECK · SYSTEMS LTD_ · OTJ ZMataye Xoaa-OAAW · PARTS LiST · 8-109 AMPL IFIER SERIES · 8-109D · AII · parts as · per · 8-109 except as · noted below · 78G
 - **Title block:** (29, 404)–(138, 429) mm: WAAD-BECK · SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p16 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p16%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p16 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p16%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p16 (t
 - **Words (OCR):** 50 in 35 lines: WAAD-BECK · SYSTEMS · LTD_ · PARTS LiST · 8-109 · AMPLIFIER SERIES · 8-109G · AII parts per · as · 8-109 except as · noted · below
 - **Title block:** (30, 132)–(138, 424) mm: WAAD-BECK · SYSTEMS · 8-109G · AII parts per · as · PART · DESCIPT ION · C6 · Capacitor 4.7 pF · C11 · R15 · Resistor · 1/4w · WBS recommends the use · manufacturers for continued
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p17 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p17%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p17 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p17%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -199,7 +199,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p17 (t
 - **Words (OCR):** 43 in 25 lines: WBS · M497A · Right CHANNEL leve contro] R44 : Determines · of e1 Right Channe Outputs. · output Ieve · Space for channe| · identification designation. · LEFT · output · contro] R4 2 ; Determines · LEFT Channe Outputs. · ISSUE DATE
 - **Title block:** (146, 0)–(336, 313) mm: WBS · M497A · Right CHANNEL leve contro] R44 : Determines · of e1 Right Channe Outputs. · output Ieve · LEFT · output · contro] R4 2 ; Determines · LEFT Channe Outputs. · ISSUE DATE · REVISION · APP ·
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p18 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p18%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p18 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p18%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -208,7 +208,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p18 (t
 - **Outlines:** line 370 rings, 4,022 straight (5,908 mm) / 694 curved (794 mm); text 130 rings, 1,031 straight (1,282 mm) / 343 curved (544 mm)
 - **Words (OCR):** 22 in 18 lines: LEFT · LEVEL · INSERT · SUMMING INPUT · PRE · 8.109E · EXTERNAL INPUT · dBm · 600 · ohm · RIGHT · LEVEL
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p19 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p19%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p19 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p19%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p19 (t
 - **Title block:** (118, 8)–(335, 128) mm: 1/ei DESIGNATiON REvISiON GEB · 7/78 8-109E WAS 4.109E · ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN. MRW · M49TA · ENG RKB · DUAL · MASTER MODULE · CKD ~lu · FUNCTIONAL · DIAGRAM · A
 - **Wiring (first pass):** 29 connected wire groups from 73 runs; labelled ends: 31 mm → OUTPUtS, OUTPUt; 18 mm → OUTPUTS, LEFT; 16 mm → PROGRAM, +8dBm; 15 mm → PROGRAM, +8 dBm; 13 mm → LEFT, OUTPUT
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p20 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p20%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p20 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p20%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -232,7 +232,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p20 (t
 - **Closed boxes:** 2
 - **Words (OCR):** 146 in 140 lines: Rib · 620 · INSERT · C2z · R76 · Odem · Ras · Suhhing · 330/6 · ss/10 · 1k2 · Rs
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p21 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p21%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p21 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p21%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p21 (t
 - **Title block:** (226, 0)–(336, 51) mm: Issu Daue · DcIC · WBS WARD-BECK BYETEME · M497/64974 · C4GHet ol · DUAL MASTER MODULE · CkD.8AA · SCHEMATIC · scaLE · Ecuc · 497-02-001
 - **Wiring (first pass):** 77 connected wire groups from 337 runs, 2 dotted junctions; labelled ends: 137 mm → Yzo; 91 mm → 7/8 8-109E WAs 4-/o9€, Issu Daue, WBS; 86 mm → R39, Ral; 76 mm → R8, 29, R4o; 69 mm → R8, 29, R4o
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p22 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p22%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p22 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p22%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -259,7 +259,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p22 (t
 - **Words (OCR):** 102 in 95 lines: R7 I5K · RB Jsk · csyol · RgJK · R74 Z5k · Ri? "Sk R75 ZEK · ~(54 · C33 2047 · ~Rig 40 · R2i % · Rz7 52 · R14-629
 - **Title block:** (73, 133)–(323, 319) mm: R44 · 5 k · zi · Ri7 z2 · 23 · 24 · Rig · wBs · 2k · Zk LA3OI · 25 · 26 · 1o-015 · LM3oI · LMBol · LM3ol · LMboi · Lm3oi · R2a8k? R29 Jsk · 4K · (RIGhT) · Ris J2K · R24 · Rjo JEK · ~Clo Joop · r7 # · 
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p23 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p23%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p23 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p23%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -272,7 +272,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p23 (t
 - **Words (OCR):** 85 in 74 lines: Re J5K · csol · Riz 'Sk R75 _SK · ~C34 .047 · 4047 ~C63. · CI4fle · RI4-629 · Rzz - · 24 · Ris · 25 · 2k
 - **Title block:** (84, 6)–(336, 158) mm: R6z_4s · WBS · CANADA · 7-113 · Pn3s63 P03569 · 02 · Qi · ahal · 3627 · 7/78 R76 To R79 ADDED · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYBTEMB · DRN: MRW · M497A · ENG.MRW 10177/ · CKD RZ_ · DUAL
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p24 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p24%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p24 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p24%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -284,7 +284,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p24 (t
 - **Dots (junctions):** 2
 - **Words (OCR):** 117 in 75 lines: LEFT SUM IN · LEFT SUM · IN AI 1 · RIGHT SUM IN · RIGHT SUM IN · SHIELD · SHIELD · LEFT · EXT IN · Dl 4 LEFT · EXT IN · RIGHT EXT IN
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p25 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p25%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p25 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p25%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -294,7 +294,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p25 (t
 - **Closed boxes:** 2
 - **Words (OCR):** 121 in 118 lines: +I8v · 39 · C3 · Ris · iolzs · Ri7 · 22 · 4K7 · 02 · Pn3L45 · 33 · 2n2i02
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p26 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p26%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p26 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p26%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -308,7 +308,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p26 (t
 - **Title block:** (229, 1)–(336, 61) mm: ISSUE DATE · REvISION · WBS · WARD-BECK BYSTEMS · DrN: GEB · 8 ~ 109E · ENG MRw 4/78 · Booster AMPLIFIER · CKD · SCHEMATIC · APP: · SCALE · 8-109-02-006 · ISSUE
 - **Wiring (first pass):** 36 connected wire groups from 180 runs; labelled ends: 209 mm → 2N4037, R2s, 4k7, E7; 206 mm → E3, Zn2i02; 149 mm → R37, 4K7, EG, 22o/10; 149 mm → E4, 15, 220/13, R3c; 110 mm → R34, 5-0, 15, 220/13
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p27 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p27%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p27 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p27%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -318,7 +318,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p27 (t
 - **Circles and arcs:** 12 circles, 0 arcs; largest r 11.3 @ (94.9, 266.0), r 11.2 @ (31.2, 265.7), r 10.6 @ (95.8, 139.8), r 10.5 @ (32.1, 139.7)
 - **Words (OCR):** 90 in 86 lines: E7 · E2 · ~Ci33/1@ FC2: 47k · 23/* · E16 · ~Cb-ep · 22k · CRZ · Lkz · ~Ri8 · 22k · CRA
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p28 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p28%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p28 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p28%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -330,7 +330,7 @@ Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p28 (t
 - **Words (OCR):** 46 in 43 lines: E2 · A7k · Lkz · Lkz · LR6 · ~R7_IBK · z2 · LF3S6 · ~Clo4 p · ~RIl Jek · ~Ris 940 · ~Riz 2k
 - **Title block:** (120, 9)–(336, 111) mm: 400 · M.L · ISSUE DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN: GEB · 8 ~ 109E · ENG.MRW · 4/78 · BOOSTER · AMPLIFIER · CKD · Eull · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 8-109-06-006
 
-Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p29 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p29%20(traced).json) (the CAD file: `1978 - M497A - Dual Master Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - Dual Master Module p29 (traced).json](../MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20p29%20%28traced%29.json) (the CAD file: `1978 - M497A - Dual Master Module p29 (traced).dxf`).
 
 ## Full text
 

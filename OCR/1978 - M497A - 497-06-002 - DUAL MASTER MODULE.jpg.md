@@ -21,7 +21,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Words (OCR):** 81 in 75 lines: R7 I5K · RB Jsk · cseol · 5k · RII JSK · ~Sk · R75 · C34 .047 · 4047 C64l · CI4sle · Ri4-620 · Rzz
 - **Title block:** (83, 6)–(336, 158) mm: WBS · CANADA · 7-113 · Ftipz980 · 4h9 · 3627 · 7/78 · R76 To R79 ADDED · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMB · DRN: Mrw · M497A · ENG.MRW 10177i · CKD RA_ · DUAL MASTER MODULE · COMPON
 
-Every curve, box, word and wire group: [1978 - M497A - 497-06-002 - DUAL MASTER MODULE (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-06-002%20-%20DUAL%20MASTER%20MODULE%20(traced).json) (the CAD file: `1978 - M497A - 497-06-002 - DUAL MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - 497-06-002 - DUAL MASTER MODULE (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-06-002%20-%20DUAL%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M497A - 497-06-002 - DUAL MASTER MODULE (traced).dxf`).
 
 ## Full text
 

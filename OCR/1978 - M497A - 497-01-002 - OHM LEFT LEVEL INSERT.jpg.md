@@ -21,7 +21,7 @@ Wiki page: [M497A](../../../../PAGES/M497A.md)
 - **Words (OCR):** 23 in 18 lines: LEFT · LEVEL · INSERT · SUMMING INPUT · PRE · 8.109E · EXTERNAL INPUT · 0 dBm · 600 · ohm · RIGHT · LEVEL
 - **Wiring (first pass):** 40 connected wire groups from 100 runs; labelled ends: 138 mm → 8-109E; 133 mm → 8.109E; 62 mm → PRE; 58 mm → PRE; 48 mm → INSERT
 
-Every curve, box, word and wire group: [1978 - M497A - 497-01-002 - OHM LEFT LEVEL INSERT (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-01-002%20-%20OHM%20LEFT%20LEVEL%20INSERT%20(traced).json) (the CAD file: `1978 - M497A - 497-01-002 - OHM LEFT LEVEL INSERT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497A - 497-01-002 - OHM LEFT LEVEL INSERT (traced).json](../SCHEMATICS/1978%20-%20M497A%20-%20497-01-002%20-%20OHM%20LEFT%20LEVEL%20INSERT%20%28traced%29.json) (the CAD file: `1978 - M497A - 497-01-002 - OHM LEFT LEVEL INSERT (traced).dxf`).
 
 ## Full text
 
