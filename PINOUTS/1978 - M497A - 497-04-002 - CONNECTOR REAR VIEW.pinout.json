@@ -1,0 +1,558 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1978 - M497A - 497-04-002 - CONNECTOR REAR VIEW.jpg",
+  "module": "M497A",
+  "applies_to": [
+    "M497",
+    "M497A",
+    "M497C"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "497-04-002",
+    "title": "M497/M497A,C DUAL MASTER MODULE CONNECTOR REAR VIEW",
+    "date": "1977-12",
+    "issue": "2",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "LEFT SUM IN",
+      "signal": "LEFT SUM IN",
+      "kind": "in",
+      "port": "SUM IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "LEFT SUM IN",
+      "signal": "LEFT SUM IN",
+      "kind": "in",
+      "port": "SUM IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "RIGHT SUM IN",
+      "signal": "RIGHT SUM IN",
+      "kind": "in",
+      "port": "SUM IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "RIGHT SUM IN",
+      "signal": "RIGHT SUM IN",
+      "kind": "in",
+      "port": "SUM IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "LEFT EXT IN",
+      "signal": "LEFT EXT IN",
+      "kind": "in",
+      "port": "EXT IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "LEFT EXT IN",
+      "signal": "LEFT EXT IN",
+      "kind": "in",
+      "port": "EXT IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "RIGHT EXT IN",
+      "signal": "RIGHT EXT IN",
+      "kind": "in",
+      "port": "EXT IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "RIGHT EXT IN",
+      "signal": "RIGHT EXT IN",
+      "kind": "in",
+      "port": "EXT IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "LEFT PRE OUT",
+      "signal": "LEFT PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "LEFT PRE OUT",
+      "signal": "LEFT PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "RIGHT PRE OUT",
+      "signal": "RIGHT PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "RIGHT PRE OUT",
+      "signal": "RIGHT PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "LEFT LEV CTL IN",
+      "signal": "LEFT LEV CTL IN",
+      "kind": "control_in",
+      "port": "LEV CTL IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "LEFT LEV CTL IN",
+      "signal": "LEFT LEV CTL IN",
+      "kind": "control_in",
+      "port": "LEV CTL IN",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "RIGHT LEV CTL IN",
+      "signal": "RIGHT LEV CTL IN",
+      "kind": "control_in",
+      "port": "LEV CTL IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "RIGHT LEV CTL IN",
+      "signal": "RIGHT LEV CTL IN",
+      "kind": "control_in",
+      "port": "LEV CTL IN",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "MONO OUT",
+      "signal": "MONO OUT",
+      "kind": "out",
+      "port": "MONO OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "MONO OUT",
+      "signal": "MONO OUT",
+      "kind": "out",
+      "port": "MONO OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "LEFT OUT 1",
+      "signal": "LEFT OUT 1",
+      "kind": "out",
+      "port": "OUT 1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "LEFT OUT 1",
+      "signal": "LEFT OUT 1",
+      "kind": "out",
+      "port": "OUT 1",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "LEFT OUT 2",
+      "signal": "LEFT OUT 2",
+      "kind": "out",
+      "port": "OUT 2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "LEFT OUT 2",
+      "signal": "LEFT OUT 2",
+      "kind": "out",
+      "port": "OUT 2",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "LEFT MON OUT",
+      "signal": "LEFT MON OUT",
+      "kind": "out",
+      "port": "MON OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "LEFT MON OUT",
+      "signal": "LEFT MON OUT",
+      "kind": "out",
+      "port": "MON OUT",
+      "polarity": "L"
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "RIGHT OUT 1",
+      "signal": "RIGHT OUT 1",
+      "kind": "out",
+      "port": "OUT 1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "RIGHT OUT 1",
+      "signal": "RIGHT OUT 1",
+      "kind": "out",
+      "port": "OUT 1",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "RIGHT OUT 2",
+      "signal": "RIGHT OUT 2",
+      "kind": "out",
+      "port": "OUT 2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "RIGHT OUT 2",
+      "signal": "RIGHT OUT 2",
+      "kind": "out",
+      "port": "OUT 2",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "RIGHT MON OUT",
+      "signal": "RIGHT MON OUT",
+      "kind": "out",
+      "port": "MON OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "RIGHT MON OUT",
+      "signal": "RIGHT MON OUT",
+      "kind": "out",
+      "port": "MON OUT",
+      "polarity": "R"
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "25V COM",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "SUM IN",
+      "dir": "in",
+      "pins": {
+        "L": "P1-1",
+        "L/2": "P1-A",
+        "R": "P1-2",
+        "R/2": "P1-B"
+      }
+    },
+    {
+      "name": "EXT IN",
+      "dir": "in",
+      "pins": {
+        "L": "P1-4",
+        "L/2": "P1-D",
+        "R": "P1-5",
+        "R/2": "P1-E"
+      }
+    },
+    {
+      "name": "PRE OUT",
+      "dir": "out",
+      "pins": {
+        "L": "P1-6",
+        "L/2": "P1-F",
+        "R": "P1-7",
+        "R/2": "P1-H"
+      }
+    },
+    {
+      "name": "LEV CTL IN",
+      "dir": "control_in",
+      "pins": {
+        "L": "P1-8",
+        "L/2": "P1-J",
+        "R": "P1-9",
+        "R/2": "P1-K"
+      }
+    },
+    {
+      "name": "OUT 1",
+      "dir": "out",
+      "pins": {
+        "L": "P1-12",
+        "L/2": "P1-N",
+        "R": "P1-15",
+        "R/2": "P1-S"
+      }
+    },
+    {
+      "name": "OUT 2",
+      "dir": "out",
+      "pins": {
+        "L": "P1-13",
+        "L/2": "P1-P",
+        "R": "P1-16",
+        "R/2": "P1-T"
+      }
+    },
+    {
+      "name": "MON OUT",
+      "dir": "out",
+      "pins": {
+        "L": "P1-14",
+        "L/2": "P1-R",
+        "R": "P1-17",
+        "R/2": "P1-U"
+      }
+    },
+    {
+      "name": "MONO OUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-M",
+        "b": "P1-11"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "DRN. field blank",
+    "Checker's signature (looks like 'Rolle'/'Relle')"
+  ],
+  "confidence": "high",
+  "notes": "Double-sided 22-way edge connector A|1 ... Z|22, labels on both sides (letters left, numbers right), recorded as separate contacts. Rows 1-17 carry the same label on both sides (polarity/leg not drawn; port keys L and L/2 = number contact and letter contact). Rows 18-22: V-Z all NC on the letter side; 18 NC, 19 -25V, 20 25V COM, 21 +25V, 22 CHASSIS on the number side. Shields C/3 (after sum inputs) and L/10 (after level-control inputs) not tied to a single port by the drawing. Revision 2 note in title block: 'REVISED TITLE BLOCK ADD M497C' (the 'C' is hand-added to the title). LEFT/RIGHT PRE OUT and EXT IN are not labelled as an insert, so no insert is recorded; they may serve as one. Legend: NC not connected."
+}
