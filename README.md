@@ -13,6 +13,43 @@ Ward-Beck Systems M497A, 1978|11. Wiki page: [M497A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 35 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [5 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M497A - Dual Master Module (2).pdf](MANUALS/1978%20-%20M497A%20-%20Dual%20Master%20Module%20(2).pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 8 dB ±0.5 dB nominal, 18 dB ±1 dB maximum. |
+| **Frequency response** | +0 -1 dB from 20 Hz to 20 kHz (tailored frequency response). |
+| **Noise** | 72 dB below +8 dBm nominal output level (20 Hz to 20 kHz). |
+| **Harmonic distortion** | Less than 0.25% THD, from 30 Hz to 20 kHz at +24 dBm output or less. Less tnan 0.1% at 1 kHz at +24 dBm output. |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Summing | 30,000 ohms,. balanced. |
+| &nbsp;&nbsp;External | 600 ohms maximum, balanced. |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing | Less than 5 ohms. |
+| &nbsp;&nbsp;External | 30,000 ohms. |
+| &nbsp;&nbsp;Input level |  |
+| &nbsp;&nbsp;External | o dBm nominal, +16 dBm maximum. |
+| **Output impedances** | Program 600 ohms, balanced. Monitor 600 ohms, ba1anced. Mono 75,000 ohms, balanced. |
+| **Load impedances** | Program 600 ohms, ba 1 anced. Monitor Bridging, balanced (5kohms minimum). Mono Summing, less than 5 ohms,balanced. |
+
+## Circuit description
+
+From [1978 - M497A - P004 - 2-1.jpg](MANUALS/1978%20-%20M497A%20-%20P004%20-%202-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M497 accommodates two separates igna / channels. It is9 2 A designed to receive the mixed feeds from the Teft and right e#M mixer buses of a console _ The two signa ] $ are independently Vv processed and amp] ified to standard Tine Levels _ The outputs of the M497A supply the main program outputs of the console 214 system_ Both channels operate in as similar manner The following description refers specifically to the LEFT channel. svods bediaesb 25 [900643 '€ An of Input 69996 602 benidmo? 976 2 9n643 iJod Juquo DMOM 6.1 407 The s igna 1 originating from the externa 1 mixing network enters the module at Pins 1/A and is app] ied to the summing current AM nodes of 21 and 22 _ 9df nttw RJb 8 + to Juqjvo 05 9Jubo7q 21 through 23 _ with their associated components, provide an 90+ actively balanced input a $ well a$ a balanced output _ The output operates at a nomina 7 level of 0 dBm and appears at 19404 Pins 6/F _ to to eaff2f2no? 4towjen eafiquo3sb KTaqu 2 Towod 9v1f36 O Insert 9+606 9 (bbom 90] naswisd noffel62t z9bfv0*q 80 deuotif Gqu2 91f Toftaom 00 bn5 Ep 270f2/2087T e[tsj klqqu? f(ov A balanced INSERT point is provided between Pins 6 / F and 8 /J,) permitting the insertion of an externa1 equa ]izer, filter or compressor, either using an M499 insert switcher or by direct _ wiring Level Adjustment From the INSERT point, the s igna ] is returned to the module at pins 8 /J and fed to the 8-109E output amp] ifier via an attenuator network _ R42 serves asama ster level adjustment, located at the module front panel and operating with a nomina ] 10 dB &quot;in-hand&quot; setting. Output The 8-109E output amp] ifier operates with again of 29 dB _ It recovers the Toss of the input network and provides additiona ] gain to produce a nomina ] Tine level of +8 dBm at the output of the module _ A 600 ohm resistive dividing network, having a oss of 6 dB_ is inserted between the 8-109E and the two module outputs at pins 12/N and 13/P _ Each of the two outputs has a maximum drive capability of +24 dBm into a 600 ohm Toad
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

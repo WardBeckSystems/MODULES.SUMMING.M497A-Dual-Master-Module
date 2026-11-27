@@ -1,0 +1,238 @@
+{
+ "module": "M497A",
+ "title": "M497A DUAL MASTER MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M497A - Dual Master Module (2).pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "8 dB ±0.5 dB nominal, 18 dB ±1 dB maximum.",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 18,
+     "unit": "dB"
+    },
+    {
+     "value": 1,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+0 -1 dB from 20 Hz to 20 kHz (tailored frequency response).",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 1,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "72 dB below +8 dBm nominal output level (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": 72,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% THD, from 30 Hz to 20 kHz at +24 dBm output or less. Less tnan 0.1% at 1 kHz at +24 dBm output.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "30,000 ohms,. balanced.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    },
+    {
+     "name": "External",
+     "text": "600 ohms maximum, balanced.",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "external"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "Less than 5 ohms.",
+     "quantities": [
+      {
+       "value": 5,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    },
+    {
+     "name": "External",
+     "text": "30,000 ohms.",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "external"
+    },
+    {
+     "name": "Input level",
+     "text": "",
+     "quantities": [],
+     "key": "input_level"
+    },
+    {
+     "name": "External",
+     "text": "o dBm nominal, +16 dBm maximum.",
+     "quantities": [
+      {
+       "value": 16,
+       "unit": "dBm"
+      }
+     ],
+     "key": "external"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Program 600 ohms, balanced. Monitor 600 ohms, ba1anced. Mono 75,000 ohms, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 75000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "Program 600 ohms, ba 1 anced. Monitor Bridging, balanced (5kohms minimum). Mono Summing, less than 5 ohms,balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 5,
+     "unit": "kohms"
+    },
+    {
+     "value": 5,
+     "unit": "ohms"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1978 - M497A - Dual Master Module (2).pdf",
+   "page": 3
+  },
+  {
+   "file": "MANUALS/1978 - M497A - Dual Master Module.pdf",
+   "page": 2
+  }
+ ]
+}

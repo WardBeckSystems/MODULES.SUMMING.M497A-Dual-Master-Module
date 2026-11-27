@@ -1,0 +1,19 @@
+{
+ "module": "M497A",
+ "source": {
+  "file": "MANUALS/1978 - M497A - P004 - 2-1.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.81,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M497 accommodates two separates igna / channels. It is9 2 A designed to receive the mixed feeds from the Teft and right e#M mixer buses of a console _ The two signa ] $ are independently Vv processed and amp] ified to standard Tine Levels _ The outputs of the M497A supply the main program outputs of the console 214 system_ Both channels operate in as similar manner The following description refers specifically to the LEFT channel. svods bediaesb 25 [900643 '€ An of Input 69996 602 benidmo? 976 2 9n643 iJod Juquo DMOM 6.1 407 The s igna 1 originating from the externa 1 mixing network enters the module at Pins 1/A and is app] ied to the summing current AM nodes of 21 and 22 _ 9df nttw RJb 8 + to Juqjvo 05 9Jubo7q 21 through 23 _ with their associated components, provide an 90+ actively balanced input a $ well a$ a balanced output _ The output operates at a nomina 7 level of 0 dBm and appears at 19404 Pins 6/F _ to to eaff2f2no? 4towjen eafiquo3sb KTaqu 2 Towod 9v1f36 O Insert 9+606 9 (bbom 90] naswisd noffel62t z9bfv0*q 80 deuotif Gqu2 91f Toftaom 00 bn5 Ep 270f2/2087T e[tsj klqqu? f(ov A balanced INSERT point is provided between Pins 6 / F and 8 /J,) permitting the insertion of an externa1 equa ]izer, filter or compressor, either using an M499 insert switcher or by direct _ wiring Level Adjustment From the INSERT point, the s igna ] is returned to the module at pins 8 /J and fed to the 8-109E output amp] ifier via an attenuator network _ R42 serves asama ster level adjustment, located at the module front panel and operating with a nomina ] 10 dB \"in-hand\" setting. Output The 8-109E output amp] ifier operates with again of 29 dB _ It recovers the Toss of the input network and provides additiona ] gain to produce a nomina ] Tine level of +8 dBm at the output of the module _ A 600 ohm resistive dividing network, having a oss of 6 dB_ is inserted between the 8-109E and the two module outputs at pins 12/N and 13/P _ Each of the two outputs has a maximum drive capability of +24 dBm into a 600 ohm Toad"
+   ]
+  }
+ ]
+}
