@@ -1,5 +1,5 @@
 # 1978 - M497A - Dual Master Module.pdf
-Wiki page: [M497A](../../../../PAGES/M497A.md)
+Wiki page: [M497A](../)
 
 
 - **Year:** 1978 (found in this file: "REVISION 7/78")

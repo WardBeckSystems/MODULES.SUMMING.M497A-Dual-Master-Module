@@ -1,5 +1,5 @@
 # 1978 - M497A - 497-01-002 - DESIGNATION REVISION GEB.jpg
-Wiki page: [M497A](../../../../PAGES/M497A.md)
+Wiki page: [M497A](../)
 
 
 - **Year:** 1978 (found in this file: "REVISiON 2 7/78")

@@ -1,5 +1,5 @@
 # 1978 - M497A - P001 - Title Page.jpg
-Wiki page: [M497A](../../../../PAGES/M497A.md)
+Wiki page: [M497A](../)
 
 
 - **Year:** 1978 (module estimate (labelled))
